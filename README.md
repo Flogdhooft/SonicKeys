@@ -4,6 +4,10 @@ An **interactive piano design project** built as part of the *[freeCodeCamp](htt
 
 ---
 
+![image](https://github.com/Flogdhooft/SonicKeys/blob/6538ac82ef7f7a04164b3b38d96496d20a5d0156/photo_2026-10-29_09-39-00.jpg)
+
+---
+
 ## Key Features
 
 * **Component Styling & Positioning :** Uses advanced CSS properties (`position: relative`, `float`, and `::after` pseudo-elements) to accurately structure the white and black piano keys.
