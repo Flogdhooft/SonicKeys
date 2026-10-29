@@ -1,6 +1,6 @@
 # SonicKeys
 
-An **interactive piano design project** built as part of the *[freeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design-v9/workshop-piano/step-1) **Responsive Web Design Certification** curriculum. This application models a realistic and styled piano keyboard, featuring media queries to ensure a smooth and responsive layout across different screen sizes.
+An **interactive piano design project** built as part of the **Responsive Web Design Certification** curriculum by [*freeCodeCamp*](https://www.freecodecamp.org/learn/responsive-web-design-v9/workshop-piano/step-1). This application models a realistic and styled piano keyboard, featuring media queries to ensure a smooth and responsive layout across different screen sizes.
 
 ---
 
